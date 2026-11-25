@@ -9,10 +9,10 @@
 
 | Campo | Completar |
 |-------|-----------|
-| **Nombre completo** | |
-| **Usuario GitHub** | |
-| **Rol** | Docente / Becario / Colaborador externo |
-| **Fecha de ingreso** | AAAA-MM-DD |
+| **Nombre completo** | Julián Patricio Scicolone |
+| **Usuario GitHub** | scicolonejulian |
+| **Rol** | Becario |
+| **Fecha de ingreso** | 2026-11-25 |
 
 ---
 
@@ -32,7 +32,7 @@ Dejá vacío lo que no aplica.
 | 14:00–16:00 |   |   |   |   |   |   |
 | 16:00–18:00 |   |   |   |   |   |   |
 | 18:00–20:00 |   |   |   |   |   |   |
-| 20:00–22:00 |   |   |   |   |   |   |
+| 20:00–22:00 |   |   |   |   |   |  ✅ |
 
 **Notas sobre disponibilidad** (opcional):
 > _Ej: "Los miércoles puedo variar según cursada", "En julio no estoy disponible"_
@@ -43,7 +43,7 @@ Dejá vacío lo que no aplica.
 
 Al abrir este PR confirmo que:
 
-- [ ] Leí el documento [ONBOARDING.md](../ONBOARDING.md) completo
-- [ ] Entiendo las convenciones de commits y ramas
-- [ ] Entiendo cómo usar los tableros de GitHub Projects
-- [ ] Entiendo las reglas de issues y PRs
+- [ ✅ ] Leí el documento [ONBOARDING.md](../ONBOARDING.md) completo
+- [ ✅ ] Entiendo las convenciones de commits y ramas
+- [ ✅ ] Entiendo cómo usar los tableros de GitHub Projects
+- [ ✅ ] Entiendo las reglas de issues y PRs
