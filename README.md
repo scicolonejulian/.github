@@ -17,8 +17,8 @@ La siguiente grilla refleja los horarios acordados de cada integrante. Se actual
 | 12:00–14:00 |       |        |           | Juan Montoni| Juan Montoni|        |
 | 14:00–16:00 |       |        |           | Juan Montoni| Juan Montoni|        |
 | 16:00–18:00 |       | Lucio Fuster|           | Pablo Gomez, Bruno Vega, Alexis Hernandez, Lucio Fuster| Pablo Gomez, Bruno Vega, Juan Montoni |Bruno Vega|
-| 18:00–20:00 |       | Lucio Fuster       |           |Bruno Vega, Alexis Hernandez, Lucio Fuster   |             | Bruno Vega|
-| 20:00–22:00 |       |        |           | Alexis Hernandez             |             |        |
+| 18:00–20:00 |       | Lucio Fuster       |           |Bruno Vega, Alexis Hernandez, Lucio Fuster   |    Scicolone Julián         | Bruno Vega|
+| 20:00–22:00 |       |        |           | Alexis Hernandez             |   Scicolone Julián          |        |
 
 > _Para ver la disponibilidad detallada de cada integrante, consultá los archivos en [`disponibilidad/`](../disponibilidad/)._
 
