@@ -1,4 +1,4 @@
-# Disponibilidad — @usuario-github
+# Disponibilidad — @scicolonejulian
 
 > Completá este archivo y abrí un PR como parte del onboarding.
 > El horario refleja cuándo estás **físicamente presente en el laboratorio**.
@@ -31,8 +31,8 @@ Dejá vacío lo que no aplica.
 | 12:00–14:00 |   |   |   |   |   |   |
 | 14:00–16:00 |   |   |   |   |   |   |
 | 16:00–18:00 |   |   |   |   |   |   |
-| 18:00–20:00 |   |   |   |   |   |   |
-| 20:00–22:00 |   |   |   |   |   |  ✅ |
+| 18:00–20:00 |   |   |  ✅ |   |  ✅ |   |
+| 20:00–22:00 |   |   |  ✅ |   | ✅  |   |
 
 **Notas sobre disponibilidad** (opcional):
 > _Ej: "Los miércoles puedo variar según cursada", "En julio no estoy disponible"_
